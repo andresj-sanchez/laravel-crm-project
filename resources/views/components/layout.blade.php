@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	@vite('resources/css/app.css')
 	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<link rel="icon" href="https://studyatgenuine.com/wp-content/uploads/2022/05/cropped-FAVICON-32x32.png" sizes="32x32">
 	<title>Genuine Digital School CRM</title>
 
 </head>
