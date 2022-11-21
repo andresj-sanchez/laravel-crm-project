@@ -46,5 +46,4 @@
 			{{$companies->links()}}
 		</div>
 	</div>
-	<x-modal />
 </x-layout>

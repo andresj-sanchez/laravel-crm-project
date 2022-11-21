@@ -72,5 +72,4 @@
       </div>
     </form>
 	</div>
-	<x-modal />
 </x-layout>

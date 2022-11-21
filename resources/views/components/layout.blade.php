@@ -69,5 +69,6 @@
 			main.classList.toggle('left-[80px]');
 		}
 	</script>
+	<x-modal />
 </body>
 </html>
